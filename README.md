@@ -4,9 +4,11 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-2C2E3B?logo=electron&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 
 ---
 
@@ -20,6 +22,7 @@
 
 - [Requirements](#requirements)
 - [Features](#features)
+- [Release](#release)
 - [Installation](#installation)
 - [Technologies Used](#technologies-used)
 - [License](#license)
@@ -37,6 +40,12 @@ To run this project, ensure you have the following installed:
 ## Features
 
 - 
+
+---
+
+## Release
+
+- Alternatively you can download the `.zip` file from the [Releases](https://github.com/JohnIvn/CafePOS/releases) section.
 
 ---
 
