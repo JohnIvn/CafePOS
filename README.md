@@ -26,6 +26,7 @@
 - [Features](#features)
 - [Release](#release)
 - [Installation](#installation)
+- [Structure](#structure)
 - [Technologies Used](#technologies-used)
 - [License](#license)
 
@@ -79,6 +80,17 @@ yarn
 
 ```bash
 -
+```
+
+---
+
+## Structure
+
+```bash
+/
+├── backend/            
+├── frontend/     
+├── middleware/            
 ```
 
 ---
