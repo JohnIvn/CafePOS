@@ -17,5 +17,13 @@
   "bugs": {
     "url": "https://github.com/JohnIvn/CafePOS/issues"
   },
-  "homepage": "https://github.com/JohnIvn/CafePOS#readme"
+  "homepage": "https://github.com/JohnIvn/CafePOS#readme",
+  "dependencies": {
+    "@fastify/cors": "^11.0.1",
+    "aws-sdk": "^2.1692.0",
+    "dotenv": "^17.0.1",
+    "fastify": "^5.4.0",
+    "nodemon": "^3.1.10",
+    "winston": "^3.17.0"
+  }
 }
