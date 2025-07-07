@@ -32,7 +32,7 @@
 
 ---
 
-## REQUIREMENTS
+## Requirements
 
 To run this project, ensure you have the following installed:
 
@@ -88,9 +88,12 @@ yarn
 
 ```bash
 /
-├── backend/            
-├── frontend/     
-├── middleware/            
+├── Backend/            
+├── Frontend/
+│   ├── public/
+│   └── src/
+│       └── app/
+└── Middleware/            
 ```
 
 ---
